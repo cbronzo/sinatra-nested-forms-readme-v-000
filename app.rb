@@ -15,3 +15,5 @@ post '/student' do
  
   erb :student
 end
+
+end
